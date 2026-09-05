@@ -11,7 +11,7 @@
 
 Los presentes Términos y Condiciones (en adelante, los "Términos") constituyen un contrato legal entre:
 
-- **EL LICENCIANTE:** [Tu nombre completo o razón social de SiReBAi], con RIF/Cédula [__________], domiciliado en [__________], Venezuela, en adelante denominado "SiReBAi" o "El Cuaderno de Mario".
+- **EL LICENCIANTE:** Leonel Marcelo Sira Escobar, con RIF/Cédula V-20.235.191, domiciliado en Barquisimeto, Venezuela, en adelante denominado "SiReBAi" o "El Cuaderno de Mario".
 
 - **EL LICENCIATARIO:** La persona natural o jurídica (en adelante, "la Bodega" o "el Usuario") que acepta estos Términos al utilizar el software "El Cuaderno de Mario" (en adelante, "la Aplicación").
 
@@ -51,8 +51,8 @@ h) Almacenar datos personales de terceros (clientes, cajeros, proveedores) sin c
 | Plan | Precio | Características principales |
 |------|--------|----------------------------|
 | **Cuaderno** (Gratis) | Bs. 0 | 1 usuario, hasta 100 productos, ventas ilimitadas, marca SiReBAi visible |
-| **Cuaderno y Calculadora** | $10 USD/mes | Hasta 3 usuarios, personalización completa, reportes exportables, impresión térmica |
-| **Todos los Juguetes** | $25 USD/mes | Usuarios ilimitados, WhatsApp Cloud API, backup automático, alertas inteligentes |
+| **Cuaderno y Calculadora** | $20 USD/mes | Hasta 3 usuarios, personalización completa, reportes exportables, impresión térmica |
+| **Todos los Juguetes** | $30 USD/mes | Usuarios ilimitados, WhatsApp Cloud API, backup automático, alertas inteligentes |
 
 4.2. Los precios están expresados en dólares de los Estados Unidos de América (USD). El pago se realizará en bolívares a la tasa BCV vigente del día, o en divisas según los métodos habilitados por SiReBAi (Pago Móvil, Zelle, Binance, efectivo USD, etc.).
 
@@ -161,8 +161,8 @@ h) Almacenar datos personales de terceros (clientes, cajeros, proveedores) sin c
    - Contar con autoridad legal para obligar a la Bodega o empresa que representa.
 
 12.2. Para consultas, reclamos o notificaciones relacionadas con estos Términos, el Usuario puede contactar a SiReBAi a través de:
-   - **WhatsApp:** [Tu número]
-   - **Correo electrónico:** [Tu correo]
+   - **WhatsApp:** 0412-0583113
+   - **Correo electrónico:** leonellsira25@gmail.com
    - **Horario de atención:** Lunes a Viernes, 9:00 AM - 5:00 PM (hora de Venezuela)
 
 ---
